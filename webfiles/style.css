@@ -196,3 +196,10 @@ body {
     position: absolute;
     overflow-x: auto;
 }
+
+.disabled-link {
+    pointer-events: none; /* Disable click events */
+    color: gray; /* Change color to indicate it's disabled */
+    text-decoration: none; /* Remove underline */
+    cursor: not-allowed; /* Show "not allowed" cursor */
+}
