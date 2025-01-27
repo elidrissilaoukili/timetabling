@@ -1,4 +1,4 @@
-package timetabling;
+package com.timetabling.system.timetabling;
 
 import java.util.*;
 

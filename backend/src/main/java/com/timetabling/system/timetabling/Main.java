@@ -1,4 +1,4 @@
-package timetabling;
+package com.timetabling.system.timetabling;
 
 public class Main {
     public static void main(String[] args) {

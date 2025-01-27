@@ -1,4 +1,4 @@
-package com.scholarium.system.timetable.service;
+package com.timetabling.system.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.beans.factory.annotation.Autowired;

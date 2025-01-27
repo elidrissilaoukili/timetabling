@@ -1,6 +1,6 @@
-package com.scholarium.system.timetable.service;
+package com.timetabling.system.service;
 
-import com.scholarium.system.timetable.dto.*;
+import com.timetabling.system.dto.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
